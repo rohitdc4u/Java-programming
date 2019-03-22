@@ -15,7 +15,8 @@ package collections;
 		finally {
 			System.out.println("Error");
 		}
-			
+		
+		System.out.println("test~");
 		}
 	}
 	
